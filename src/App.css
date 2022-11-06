@@ -1,0 +1,27 @@
+.main {
+}
+
+.img {
+  background-image: url("/src/nn.jpg");
+  background-image: url("/src/nn.jpg");
+  background-size: contain;
+  width: 390px;
+  height: 300px;
+}
+.img2 {
+  background-image: url("/src/s.jpg");
+  background-size: contain;
+  width: 390px;
+  height: 300px;
+}
+
+h2 {
+  margin: 120px;
+  color: red;
+  font-size: 2.1rem;
+}
+h3 {
+  margin: 120px;
+  color: rgb(255, 26, 251);
+  font-size: 2.1rem;
+}
